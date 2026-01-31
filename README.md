@@ -1,6 +1,6 @@
 # Module-3
 # List Operations in Python: Sum of List Items
-# NAME  :GOPIKRISHNAN M
+# NAME  :JOSIAHIMMANUEL A 
 # REG NO:212223043001
 
 ## 🎯 Aim
